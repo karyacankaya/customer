@@ -51,6 +51,17 @@ bu varsayımlarla daha kârlı çıktı.
 Teklif önerilen müşteriler `outputs/teklif_listesi.csv` dosyasında. Bu listeyi Power BI ile
 görselleştirmeyi planlıyorum.
 
+## Power BI raporu
+
+Teklif önerilen müşterilerin listesini (`outputs/teklif_listesi.csv`) Power BI'da görselleştirdim:
+sözleşme türüne göre beklenen kayıp, internet hizmeti ve ödeme yöntemine göre müşteri sayıları,
+en riskli 10 müşteri ve ayrılma olasılığı – yıllık gelir dağılımı.
+
+![Power BI raporu](outputs/powerbi_rapor.png)
+
+Rapor dosyası: `outputs/Teklif_Listesi_Raporu.pbix`
+
+
 ## Nasıl çalıştırılır?
 
 ```bash
